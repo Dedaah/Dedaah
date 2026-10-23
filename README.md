@@ -1,267 +1,112 @@
-# **# Hi, I'm Gifty 👋🏾**
+# Hi, I'm Gifty Kumah 👋🏾
 
+### Business & Data Analyst | Business Intelligence | Marketing Analytics
 
+I am a business and data analytics professional with a First Class degree in Business Administration (Marketing) and a growing portfolio focused on turning data into business value.
 
-## \## Marketing Professional | Business \& Data Analytics | Python Learner
+My work sits at the intersection of business strategy, data analysis, and technology. I enjoy understanding not only what the numbers say, but also what they mean for performance, customer behavior, and decision-making.
 
+I am building practical experience in data preparation, SQL, business intelligence, dashboard development, and Python to solve real-world business problems through evidence-based insights.
 
+---
 
-I'm a marketing professional transitioning into business and data analytics, with a strong interest in using data, technology, and AI to solve business problems and support better decision-making.
+## 👩🏾‍💻 About Me
 
+- 🎓 **Education:** First Class BSc in Business Administration (Marketing), University of Ghana Business School.
+- 💼 **Professional Background:** Marketing, campaign reporting, customer insights, KPI tracking, and business performance analysis.
+- 📊 **Analytics Focus:** Business intelligence, marketing analytics, dashboarding, and data-driven decision support.
+- 🗄️ **Technical Skills:** Excel, Power Query, MySQL, SQL, Power BI, and Python.
+- 🚀 **Portfolio Approach:** Building hands-on projects, documenting my process, and continuously improving my technical and analytical skills.
+- 🌍 **Career Goal:** To grow at the intersection of business analytics, technology, and data-driven strategy.
 
+I believe good analytics starts with the right business question and ends with clear insight that supports action.
 
-My background in marketing has given me experience working with **customer data, purchase data, campaign performance, KPIs, forecasting, and business insights**. I'm now building on that foundation by developing my technical skills in analytics and programming.
+---
 
+## 🛠️ Skills & Tools
 
+| Area | Skills and Tools |
+|---|---|
+| Data Analysis | Excel, exploratory analysis, KPI analysis, trend analysis |
+| Business Intelligence | Power BI, dashboards, data modeling, DAX measures |
+| Databases & SQL | MySQL, relational database design, queries, aggregation |
+| Data Preparation | Power Query, cleaning, transformation, validation |
+| Programming | Python for analysis and automation |
+| Collaboration & Documentation | Git, GitHub, project reporting |
 
-\---
+---
 
-### \## 📊 About Me
+## 📚 Current Learning
 
+I am strengthening my skills through practical projects and structured learning in:
 
+- SQL and MySQL
+- Power BI dashboard development and data modeling
+- Python for data analysis and automation
+- Data cleaning and exploratory analysis
+- Business storytelling through clear data visualization
 
-* 🎓 First Class BSc Business Administration (Marketing), University of Ghana Business School
-* 💼 Experience across marketing, client service, data-driven campaigns, and business analysis
-* 📈 Interested in turning business data into actionable insights
-* 🐍 Currently building my Python skills from the fundamentals toward data analytics
-* 📊 Building practical projects using real-world business and financial scenarios
-* 🌍 Long-term goal: build a career at the intersection of business, data, technology, and AI
+I learn by applying concepts to real scenarios, documenting the work, and improving each iteration.
 
+---
 
+## 💼 Professional Experience
 
-\---
+My background in marketing and business analysis gives me a strong understanding of how data supports business decisions.
 
-### 
+Key strengths include:
+- Marketing campaign performance analysis
+- Customer and purchase data analysis
+- KPI tracking and measurement
+- Business reporting and insight generation
+- Data-informed planning and decision-making
 
-### \## 🛠️ Technical Skills
+This experience helps me connect analytical findings to business objectives rather than viewing data in isolation.
 
+---
 
+## 🎓 Education
 
-#### \### Data \& Analytics
+**University of Ghana Business School**  
+BSc Business Administration (Marketing) — First Class Honours
 
+**Chartered Institute of Marketing (CIM), UK**  
+Diploma in Professional Marketing
 
+---
 
-* Excel
-* Power BI
-* SQL
-* **Python (currently developing)**
+## 🌱 My Approach
 
+I am building a portfolio that reflects both my current skills and my growth as a data professional.
 
+My focus is on the full analytical process:
 
-#### \### Business \& Marketing
+**Understand the problem → Prepare the data → Analyze the evidence → Communicate the insight → Support better decisions**
 
+I value continuous learning, clarity, critical thinking, and practical problem-solving.
 
+---
 
-* Data-driven marketing
-* Customer and purchase data analysis
-* KPI analysis
-* Demand forecasting
-* Campaign performance analysis
-* Marketing research
-* Customer insights
+## 🔍 Explore My Work
 
+My GitHub repositories showcase my learning journey, technical projects, and applied work in business analytics, BI, and data analysis.
 
+Explore my repositories to see projects, documentation, and my ongoing development.
 
-#### \### Tools
+🔗 [Browse all repositories](https://github.com/Dedaah?tab=repositories)
 
+---
 
+## 🤝 Let’s Connect
 
-* Microsoft Excel
-* Power BI
-* Git \& GitHub
-* Python IDLE
-* MySQL
+I am open to connecting with professionals, recruiters, and peers interested in:
 
+- Business and data analytics
+- Business intelligence
+- Marketing analytics
+- Data-driven strategy
+- Technology and AI
 
-
-\---
-
-
-
-### \## 📚 Currently Learning
-
-
-
-I'm currently developing my Python skills through hands-on projects, progressing from programming fundamentals toward practical data analysis.
-
-
-
-My learning roadmap includes:
-
-
-**Python Fundamentals → Data Structures → Functions → Pandas → Data Cleaning → Data Analysis → Data Visualization → SQL → Advanced Analytics**
-
-
-
-I'm documenting my projects and learning process on GitHub as I progress.
-
-
-
-\---
-
-
-
-### \## 🚀 Featured Projects
-
-
-
-#### \### 💰 Python Finance Calculator
-
-
-
-A beginner Python project that calculates monthly savings, savings rate, and provides a simple savings assessment based on predefined thresholds.
-
-
-
-**Skills demonstrated:**
-
-
-
-* Python variables
-* User input
-* Type conversion
-* Arithmetic operations
-* Conditional statements
-* F-strings and number formatting
-* Git \& GitHub
-
-
-
-🔗 \[View Project](https://github.com/Dedaah/python-finance-calculator)
-
-
-
-\---
-
-
-
-### \### 🔜 More Projects Coming
-
-
-
-I'm currently building a series of Python projects that progressively develop my skills in:
-
-
-
-* Financial analysis
-* Spending analysis
-* Data cleaning
-* Business analytics
-* Data visualization
-* SQL
-* Exploratory data analysis
-
-
-
-This section will grow as I continue building my analytics portfolio.
-
-
-
-\---
-
-
-
-### \## 💼 Professional Experience
-
-
-
-My professional experience has given me opportunities to work with business data and apply analytical thinking to real-world problems.
-
-
-
-Some areas I've worked on include:
-
-
-
-* Client and purchase data analysis
-* Customer and purchase behaviour
-* Demand forecasting
-* Campaign performance analysis
-* KPI tracking
-* Marketing performance reporting
-* Data-driven decision-making
-
-
-
-My experience in marketing is an important part of my transition into analytics because it gives me an understanding of **the business questions behind the data**.
-
-
-
-\---
-
-
-
-### \## 🎓 Education
-
-
-
-**University of Ghana Business School**
-
-BSc Business Administration — Marketing
-
-First Class Honours
-
-
-
-**Professional Qualification:**
-
-CIM UK — Diploma in Professional Marketing
-
-
-
-\---
-
-
-
-### \## 🌱 What I'm Building
-
-
-
-I'm intentionally building my technical portfolio one project at a time.
-
-
-
-Rather than focusing only on completing courses, I want my GitHub to demonstrate how I:
-
-
-
-Learn → Build → Analyse → Document → Improve
-
-
-
-Each project represents a step in my development toward becoming a stronger business and data analytics professional.
-
-
-
-\---
-
-
-
-### \## 📫 Let's Connect
-
-
-
-I'm always interested in connecting with people working in:
-
-
-
-* Business Analytics
-* Data Analytics
-* AI \& Technology
-* Marketing Analytics
-* Business Intelligence
-
-
-
-🔗 \[LinkedIn](https://www.linkedin.com/in/gifty-kumah/)
-
-
-
-\---
-
-
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/gifty-kumah/)
 
 ⭐ Thanks for visiting my profile!
-
-
-
